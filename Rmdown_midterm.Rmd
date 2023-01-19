@@ -67,7 +67,7 @@ Here is framework for your analysis:
 * interpretation of the results (plots and tables)
 
 ```{r M1, echo=FALSE}
-# setwd("~/..2100")
+setwd("~/..2100")
 data<- read.csv("HomeSale.csv",head=TRUE)
 ```
 
