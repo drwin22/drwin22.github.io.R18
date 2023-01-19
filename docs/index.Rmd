@@ -1,9 +1,29 @@
 ---
-title: "R_git"
-author: "FTN"
-date: "2023-01-19"
+title: "Math2250:Introduction to Statistics - Midterm Project"
+author: "Student's Name"
+date: "2022-11-08"
 output: html_document
+
 ---
+```{css, echo= FALSE}
+body {
+ background-color: #d0e3f1;
+}
+```
+\definecolor{shadecolor}{RGB}{245,245,245}
+<style type="text/css">
+body, td {
+   font-size: 20px;
+}
+code.r{
+  font-size: 20px;
+}
+pre {
+  font-size: 20px
+}
+</style>
+
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
