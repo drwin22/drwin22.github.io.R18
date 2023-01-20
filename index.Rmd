@@ -50,6 +50,10 @@ The Midterm project is intended for cooperative learning. You will need to contr
 
 You need to cite in details the process how you carry out your work and to answer the questions. Use confidence intervals and hypothesis testing to show the evidence to support or show lack of evidence to support for a research project.
 Here is framework for your analysis:
+```{r echo = FALSE, results = 'asis'}
+image = "rabbit.jpg"
+cat(paste0('<center><img src="', image,  '"></center>'))
+```
 *importing data from Excel or text (.csv or .txt) files
 
 * cleaning data
